@@ -1,0 +1,6 @@
+1;Depot;Hub A;100
+2;Restaurant;Resto A;10
+3;Client;Pont A;Rue A
+4;Client;Pont B;Rue B
+5;Restaurant;Resto B;10
+6;Client;Client B;Rue C
