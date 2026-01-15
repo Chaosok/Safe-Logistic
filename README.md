@@ -3,7 +3,7 @@
 
 ## Description
 
-Ce projet sert à inserer un graphe depuis la liste d'arête ou celle adjacence. Le graphe possède également les algorithme de parcoours du graphe
+Ce projet sert à inserer un graphe depuis la liste d'arête ou celle adjacence. Le graphe possède également les algorithme de parcoours du graphe. En plus, il est une simulation de livraison d'une ville importée. Il vise à fournir un endroit favorable et efficace pour la livraison et il resulte le plus court chemin entre deux ou trois lieux lors de livraison.  
 
 # Séance 1:
 
